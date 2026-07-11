@@ -13,5 +13,3 @@ I created this repository to practice competitive programming, improve problem-s
   - Improve programming fundamentals
   - Practice implementation skills
   - Learn basic algorithms and problem-solving techniques
-
-## 📂 Repository Structure
